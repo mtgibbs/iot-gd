@@ -43,4 +43,4 @@ This prototype uses a relay wired to the garage door opener to activate the door
 
 
 ##License
-Apache 2.0
+[Apache 2.0](https://github.com/mtgibbs/iot-gd/blob/master/LICENSE)

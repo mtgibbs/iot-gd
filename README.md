@@ -14,7 +14,7 @@ This prototype uses a relay wired to the garage door opener to activate the door
     sudo apt-get install python-pip
   ```  
   
-  3) Install GrovePi dependencies on the pi (full instructions found [here](http://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/setting-software/)
+  3) Install GrovePi dependencies on the pi (full instructions found [here](http://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/setting-software/))
   
   ```
     cd <directory_for_grovepi>

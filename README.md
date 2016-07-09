@@ -6,9 +6,9 @@ This prototype uses a relay wired to the garage door opener to activate the door
 
 ##Setup on RaspberryPi
 
-  1) Install python (2.7)
+  1) Install **[python (2.7)](https://www.python.org/downloads/)**
   
-  2) Install pip
+  2) Install **pip**
   
   ```
     sudo apt-get install python-pip
@@ -24,13 +24,13 @@ This prototype uses a relay wired to the garage door opener to activate the door
     sudo ./install.sh
   ```
 
-  4) Install flask
+  4) Install **flask**
   
   ```
     sudo pip install flask
   ```
   
-  5) Run by executing gd-service.py
+  5) Run by executing **gd-service.py**
   
   ```
     sudo python gd-service.py
